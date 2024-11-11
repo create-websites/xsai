@@ -1,0 +1,1 @@
+call gsutil -m cp -r -n gs://xsaigokul_prompt/xsai.co.uk/output/content/blogs/dwh c:\e\a3_output\xsai.co.uk\output\content\blogs
